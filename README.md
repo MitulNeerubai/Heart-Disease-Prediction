@@ -77,3 +77,9 @@ Designed interactive charts, including pie charts, line graphs, and heatmaps, to
 This project involved building a predictive model for heart disease using machine learning algorithms, followed by the creation of a comprehensive and interactive dashboard using both Power BI and Tableau. The dashboards provide valuable insights into the data and the prediction results, making it easier to understand trends and key metrics such as cholesterol levels, age distribution, and other health indicators related to heart disease.
 
 Through this project, you will learn how to preprocess data, apply machine learning models, and visualize data effectively using Power BI and Tableau, gaining hands-on experience in both data science and business intelligence tools.
+![Heart Disease Tableau](https://github.com/user-attachments/assets/01ab547d-4a15-4e9b-8272-de2a20126170)
+![Heart Disease PowerBI](https://github.com/user-attachments/assets/51ced9a7-8ca7-42e3-98cd-f978542960d6)
+
+
+
+
