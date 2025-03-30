@@ -3,6 +3,12 @@
 ### Project Overview
 The goal of this project is to build a machine learning model to predict heart disease in patients based on their medical attributes. The project involves exploring various health-related features and applying machine learning algorithms to build a robust prediction system. Additionally, a comprehensive dashboard was created using Power BI and Tableau to visualize the results and key metrics from the prediction model.
 
+#### PowerBI
+![Heart Disease PowerBI](https://github.com/user-attachments/assets/51ced9a7-8ca7-42e3-98cd-f978542960d6)
+
+#### Tableau
+![Heart Disease Tableau](https://github.com/user-attachments/assets/01ab547d-4a15-4e9b-8272-de2a20126170)
+
 ### Dataset
 The dataset contains information about several medical parameters, with the target variable being the presence or absence of heart disease. The features in the dataset include:
 
@@ -66,14 +72,12 @@ Used DAX commands to calculate and create meaningful measures such as total numb
 
 Created various visualizations including funnel charts, KPIs, and trend lines to help stakeholders understand the key insights from the dataset.
 
-![Heart Disease PowerBI](https://github.com/user-attachments/assets/51ced9a7-8ca7-42e3-98cd-f978542960d6)
 
 #### 6. Dashboard Creation Using Tableau
 Also developed a similar dashboard using Tableau, incorporating various visualization techniques to display the prediction results.
 
 Designed interactive charts, including pie charts, line graphs, and heatmaps, to explore the relationship between various health parameters and heart disease prediction.
 
-![Heart Disease Tableau](https://github.com/user-attachments/assets/01ab547d-4a15-4e9b-8272-de2a20126170)
 
 ### Conclusion
 This project involved building a predictive model for heart disease using machine learning algorithms, followed by the creation of a comprehensive and interactive dashboard using both Power BI and Tableau. The dashboards provide valuable insights into the data and the prediction results, making it easier to understand trends and key metrics such as cholesterol levels, age distribution, and other health indicators related to heart disease.
